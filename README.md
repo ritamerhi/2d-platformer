@@ -1,6 +1,6 @@
 # pixel_adventure
 
-A new Flutter project.
+A 2d pixel platformer game developed using Flutter.
 
 ## Getting Started
 
