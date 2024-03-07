@@ -4,6 +4,8 @@ import 'package:pixel_adventure/pixel_adventure.dart';
 
 enum PlayerState {idle, running}
 
+enum PlayerDirection {left, right, none}
+
 class Player extends SpriteAnimationGroupComponent with HasGameRef<PixelAdventure>{
 
   String character;
