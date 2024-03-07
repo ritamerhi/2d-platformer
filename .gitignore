@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 
+.\assets\Pixel Adventure.tiled-session
+
 # Symbolication related
 app.*.symbols
 
